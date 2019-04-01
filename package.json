@@ -1,7 +1,8 @@
 {
   "description": "Indigo backend interview project",
   "devDependencies": {
-    "csv-parse": "^2.5.0"
+    "csv-parse": "^2.5.0",
+    "async": "^2.6.2"
   },
   "name": "hooli-checker",
   "repository": {
